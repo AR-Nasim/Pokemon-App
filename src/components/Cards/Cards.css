@@ -1,0 +1,28 @@
+
+/*-- CSS for Card --*/
+
+.card-img-top{
+    min-width: 200px;
+    max-height: 210px;
+}
+.card{
+    border: 8px solid #8fc5fc;
+    border-radius: 10px;
+    transition: .2s;
+}
+.card:hover{
+    transform: translateY(-13px);
+}
+.card-footer{
+    background-color: transparent;
+    border: none;
+}
+.cart-btn{
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.bg-custom{
+    background-color: #fbc531;
+}

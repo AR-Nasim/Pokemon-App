@@ -1,0 +1,15 @@
+.card-img{
+    width: 100%;
+    height: 100%;
+}
+
+/*-- CSS for cart cards --*/
+
+.small-card{
+    border: 5px solid #8fc5fc;
+    padding: 0;
+    border-radius: 10px;
+}
+.small-card:hover{
+    transform: scale(1.05);
+}

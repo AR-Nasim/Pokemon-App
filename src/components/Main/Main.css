@@ -1,0 +1,11 @@
+
+/*-- CSS for carts and cards --*/
+.cart{
+    background-color: #dcdde1;
+}
+
+.cards{
+    padding: 0;
+    background-color: #dcdde1;
+    overflow: hidden;
+}
